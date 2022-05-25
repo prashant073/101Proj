@@ -1,0 +1,159 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+	/*border: 2px solid blue;*/
+}
+
+
+.connect{
+	margin-top: 20px;
+	background-color:#F1F3FE;
+	/*border: 2px solid white;*/
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+}
+
+.left{
+	/*border: 2px solid red;*/
+}
+.right{
+	border: 2px solid green;
+	display: flex;
+	flex-direction: column;
+
+}
+
+
+.images{
+	display: flex;
+	/*flex-direction: column;*/
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 20px;
+}
+img{
+	width: 200px;
+	height: 107px
+
+}
+
+.tools{
+	display: flex;
+	border: 2px solid pink;
+
+}
+
+.footer{
+	display: flex;
+	flex-direction: column;
+	background-color:  #091E80;
+	color: #FFFFFF;
+
+;
+}
+
+
+/*.news{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+}*/
+
+.middle{
+	display: flex;
+	justify-content: space-around;
+}
+
+
+.last{
+	display: flex;
+	justify-content: space-around;
+}
+
+.ima img{
+width:126px;
+height:48px;
+}
+
+.footer-top{
+
+	display: flex;
+	justify-content: space-around;
+
+}
+
+
+.danira{
+	/*border: 2px solid red;*/
+}
+
+.begin{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+
+.service-grow{
+	/*display: flex;*/
+	/*flex-direction: column;*/
+	/*align-items: center;*/
+	border: 2px solid blue;
+}
+
+.card-line{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+.image-1{
+	border: 2px solid aquamarine;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.image-2{
+	border: 2px solid red;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.tags-lines{
+	display: flex;
+	justify-content: space-around;
+}
+
+.for-tag-1{
+	border: 2px solid green;
+}
+.for-tag-2{
+	border: 2px solid red;
+}
+
+.image-part{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.trusty{
+	background-color: #F1F3FE;
+
+}
+
+
+.solution-card{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
