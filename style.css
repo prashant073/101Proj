@@ -11,7 +11,7 @@ body{
 	/* background-clip: border-box; */
 
    /* min-height: 100vh; */
-	/* overflow-x:hidden; */
+	overflow-x:hidden;
 	/* font-family: 'Roboto', sans-serif; */
 	
 }
