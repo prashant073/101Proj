@@ -8,7 +8,7 @@
 	body{
 
 		background-clip: border-box;
-		border: 8px solid red;
+		/* border: 8px solid red; */
 		/* max-width: 10000px; */
 		/* max-height: 100%vh; */
    min-height: 100%vh;
@@ -79,7 +79,7 @@ min-width: 100vw;
 .top-line{
 	display: flex;
 	flex-direction: column;
-	border: 5px solid black;
+	/* border: 5px solid black; */
 	max-width: 400vw;
 	margin-left: 0px;
 	margin-right: 0px;
@@ -190,7 +190,7 @@ margin-left: 20px;
 	width: 380px;
 	/* width: 100%; */
 	/* margin-top: 10px; */
-	margin-left: 10px;
+	margin-left: 20px;
 	gap: 0px;
 	margin-top: 10px;
 		
@@ -457,7 +457,7 @@ margin-left: 20px;
 	width: 380px;
 	/* width: 100%; */
 	/* margin-top: 10px; */
-	margin-left: 10px;
+	margin-left: 20px;
 	gap: 0px;
 	margin-top: 10px;
 	margin-bottom:80px;
@@ -719,7 +719,7 @@ margin-left: 20px;
 
 
 .begin{
-	border: 2px solid red;
+	/* border: 2px solid red; */
 	display: flex;
 	flex-direction: column;
 }
@@ -727,8 +727,8 @@ margin-left: 20px;
 
 /* img is insidw this div */
 .myimg{
-	border: 3px solid gray;
-	margin-left: 1px;
+	/* border: 3px solid gray; */
+	margin-left: 15px;
 	margin-bottom: 0px;
 	width: 350;
 
@@ -748,7 +748,7 @@ margin: 0;
 }
 
 .write{
-	border: 2px solid red;
+	/* border: 2px solid red; */
 	display: flex;
 	margin-right: 0px;
 	margin-left: 0px;
@@ -808,30 +808,30 @@ margin: 0;
 
 /* Our costumer */
 .our-client{
-	border: 2px solid blue;
+	/* border: 2px solid blue; */
 	background-image: none;
 
 }
 
 .text-part{
-	border: 2px solid rgb(255, 0, 0);
+	/* border: 2px solid rgb(255, 0, 0); */
 margin-top: 30px;
 }
 
 .client-h5{
-	border: 2px solid violet;
+	/* border: 2px solid violet; */
 	margin-left: 20px;
 
 }
 
 .client-h2{
-	border: 2px solid blue;
+	/* border: 2px solid blue; */
 	font-size: 24px;
 
 }
 
 .client-p{
-	border: 2px solid rgb(128, 255, 0);
+	/* border: 2px solid rgb(128, 255, 0); */
 text-indent: -9999999px;
 /* line-height: 0; */
 line-height: 20px;
@@ -873,7 +873,7 @@ line-height: 20px;
 	width:410px ;
 	height:260px ;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.11);
-border: 3px solid goldenrod;
+/* border: 3px solid goldenrod; */
 margin-top: 10px;
 margin-bottom: 40px;
 gap: 0px;
